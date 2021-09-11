@@ -1,18 +1,14 @@
 ---
-layout: page
+layout: post
 title: About me
 subtitle: 
-cover-img: /assets/img/me.JPG
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: /assets/img/me1.jpeg
+thumbnail-img: /assets/img/me3.jpeg
+share-img: /assets/img/me3.jpeg
+tags: [About me]
 ---
 
 I'm an astrophysics Ph.D student at Tel-Aviv university (TAU), where I do research at the field of planetary science and especially Exoplanets under the supervision 
 of Prof. [Shay Zucker](https://english.tau.ac.il/profile/shayz).
 
 In addition, as part of my association to TAU's Nanosatellite and space engineering center, I also take the roll of a system engineer in the development and integration testing of nanosatellites and other space based experiment sent to the ISS. 
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
