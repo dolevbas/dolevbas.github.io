@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Space Exploration
 subtitle: Bulding Nanosatellites and other space based experiment
 cover-img: /assets/img/TAUSAT1.jpg
