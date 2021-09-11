@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Dolev Bashi
 
 # Your name to show in the footer
 author: Dolev Bashi
@@ -15,6 +15,9 @@ author: Dolev Bashi
 
 navbar-links:
   About Me: "aboutme"
+  Research: "https://beautifuljekyll.com"
+  Space exploration:
+  CV:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -40,7 +43,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dolevbashi@gmail.com"
-  facebook: deanattali
+  facebook: https://www.facebook.com/dolev.bashi
   github: daattali
   twitter: https://mobile.twitter.com/BashiDolev
   patreon: DeanAttali
