@@ -17,11 +17,10 @@ navbar-links:
   About Me: "aboutme"
   Research: "https://beautifuljekyll.com"
   Space exploration:
-  CV:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "DolevCV.pdf"
+  #Resources:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
