@@ -4,13 +4,10 @@ title: About me
 subtitle: 
 ---
 
-I'm an astrophsics Ph.D student at Tel-Aviv university, where I do research at the field of planetary science and especially Exoplanets under the supervision 
-of Prof. [Shay Zucker] (https://english.tau.ac.il/profile/shayz).
+I'm an astrophysics Ph.D student at Tel-Aviv university (TAU), where I do research at the field of planetary science and especially Exoplanets under the supervision 
+of Prof. [Shay Zucker](https://english.tau.ac.il/profile/shayz).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+In addition, as part of my association to TAU's Nanosatellite and space engineering center, I also take the roll of a system engineer in the development and integration testing of nanosatellites and other space based experiment sent to the ISS. 
 
 ### My story
 
