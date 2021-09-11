@@ -16,7 +16,7 @@ author: Dolev Bashi
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Space exploration:
+  Space exploration: "nano"
   CV: "DolevCV.pdf"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
