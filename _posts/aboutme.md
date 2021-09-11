@@ -3,9 +3,9 @@ layout: page
 title: About me
 subtitle: 
 cover-img: /assets/img/me.JPG
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+thumbnail-img: /assets/img/me.JPG
+share-img: /assets/img/me.JPG
+tags: [About me]
 ---
 
 I'm an astrophysics Ph.D student at Tel-Aviv university (TAU), where I do research at the field of planetary science and especially Exoplanets under the supervision 
