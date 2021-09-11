@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Research
-subtitle: Exoplanets, exoplanets & exoplanets ( and maybe also Binary stars...) 
+subtitle: Understanding Exoplanets 
 cover-img: /assets/img/exoplanets.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
