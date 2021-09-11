@@ -14,7 +14,7 @@ author: Dolev Bashi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "/_posts/2021-09-12-aboutme"
+  About Me: "/_posts/2021-09-12-aboutme/"
   Research: "research"
   Space exploration: "nano"
   CV: "DolevCV.pdf"
