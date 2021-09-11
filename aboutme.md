@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm an astrophsics Ph.D student at Tel-Aviv university, where I do research at the field of planetary science and especially Exoplanets under the supervision 
+of Prof. [Shay Zucker] (https://english.tau.ac.il/profile/shayz).
 
 - I rock a great mustache
 - I'm extremely loyal to my family
