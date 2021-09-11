@@ -17,4 +17,4 @@ And here is a short summary of my recent works:
 #The Similarity of Planetary System Architectures
 
 
-![Crepe](/assets/img/PASSTa.jpg){: .mx-auto.d-block :}
+![Crepe](/assets/img/PASSta.jpeg){: .mx-auto.d-block :}
