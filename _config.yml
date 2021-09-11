@@ -14,7 +14,7 @@ author: Dolev Bashi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "/_posts/2021-09-12-aboutme.md"
+  About Me: "aboutme.md" #"/_posts/2021-09-12-aboutme.md"
   Research: "research"
   Space exploration: "nano"
   CV: "DolevCV.pdf"
@@ -45,8 +45,8 @@ social-network-links:
   facebook: dolev.bashi
   github: dolevbas
   twitter: BashiDolev
-  patreon: DeanAttali
-  youtube: c/daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -75,7 +75,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
