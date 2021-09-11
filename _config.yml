@@ -42,9 +42,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dolevbashi@gmail.com"
-  facebook: https://www.facebook.com/dolev.bashi
-  github: daattali
-  twitter: https://mobile.twitter.com/BashiDolev
+  facebook: dolev.bashi
+  github: dolevbas
+  twitter: BashiDolev
   patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
