@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About me
 subtitle: 
 cover-img: /assets/img/me.JPG
