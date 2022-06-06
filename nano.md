@@ -14,6 +14,8 @@ Here is a picture of myself, at TAU's clean room during the satellite developmen
 
  ![Crepe](/assets/img/Lab.jpg){: .mx-auto.d-block :}  
  
- You can read more about TAUSAT-1 in this [link](https://english.tau.ac.il/news/tau-sat-1).
+You can read more about TAUSAT-1 in this [link](https://english.tau.ac.il/news/tau-sat-1).
 
-I'll add some more info about this and other projects that I'm currently working on in the near future, so stay tuned.
+In some other projects, I was also invloved in the dvelopment of the [COTS-Capsule](https://english.tau.ac.il/news/tau-sat-1](https://cftau.ca/the-cots-capsule-that-protects-electronic-systems-from-hazardous-radiation-effects-in-space/), an innovative space mechanism for detecting and mitigating cosmic-rays induced damage to space systems.
+
+Currently, I'm also involved in the assembly of a new [optical ground station](https://cftau.ca/out-of-this-world/) at TAU aimed to be used for advanced optical communication with satellites.
