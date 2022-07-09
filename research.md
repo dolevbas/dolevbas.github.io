@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Understanding Exoplanets 
+subtitle:  
 cover-img: /assets/img/exoplanets.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
