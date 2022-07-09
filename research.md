@@ -8,9 +8,9 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-My research is focused on exoplanet demographics, characterisation of exoplanets in the Galactic context and planetary system architectures. In my research, I'm attempting to understand the formation and evolution of planetary systems architectures as products of the process of star formation and dynamical evolution.
+My research is focused on exoplanets and binary stars. My PhD work involved the characterisation of exoplanets in the Galactic context and planetary system architectures. In my research, I'm attempting to understand the formation and evolution of planetary systems architectures as products of the process of star formation and dynamical evolution. As of the past year, I have expanded my interest in getting a better understanding of binary stars demographics and their impact on planet formation.
 
-You can check out some of my papers in this [link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+You can check out the full list of my publications in this [link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 And here is a short summary of my recent works:
 
