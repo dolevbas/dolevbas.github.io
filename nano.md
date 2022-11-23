@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Besides my passion for investigating the mysteries of the universe, I also like to build stuff. As part of my affiliation with the Nanosatellite and space engineering center at Tel-Aviv university (TAU), I could fulfill my needs and design stuff to explore space. I was appointed as TAU's first satellite system engineer - [TAUSAT-1](https://db.satnogs.org/satellite/47926). I was part of the team that built the satellite and tested it before its successful launch on February 2021.
+Besides my passion for investigating the mysteries of the universe, I also like to build stuff. As part of my affiliation with the Nanosatellite and space engineering center at Tel-Aviv university (TAU), I could fulfill my needs and design stuff to explore as the center's chief system engineer and integrator. I was part of the team that built TAU's first satellite - [TAUSAT-1](https://db.satnogs.org/satellite/47926), and tested it before its successful launch on February 2021.
 
 Here is a picture of myself in TAU's clean room during the satellite development phase:
 
