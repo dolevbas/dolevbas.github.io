@@ -18,4 +18,4 @@ You can read about TAUSAT-1 in this [link](https://english.tau.ac.il/news/tau-sa
 
 In other projects, I also developed the [COTS-Capsule](https://cftau.ca/the-cots-capsule-that-protects-electronic-systems-from-hazardous-radiation-effects-in-space/), an innovative space mechanism for detecting and mitigating cosmic-rays induced damage to space systems.
 
-I'm also assembling a new [optical ground station](https://cftau.ca/out-of-this-world/) at TAU aimed to be used for advanced optical communication with satellites. In addition, we are currently developing TAUSAT-2, which will include a dedicated LED payload that we aim to observe from the graound.
+We are assembling a new [optical ground station](https://cftau.ca/out-of-this-world/) at TAU to be used for advanced optical communication with satellites.  As part of this initiative, we developed TAUSAT-2, which among other payloads, includes a dedicated LED payload that we aim to observe from the ground.
