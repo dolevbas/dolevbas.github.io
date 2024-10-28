@@ -8,7 +8,13 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-My research is focused on exoplanets and binary stars. My Ph.D. work involved the characterization of exoplanets in the Galactic context and planetary system architectures. In my research, I'm attempting to understand the formation and evolution of planetary systems architectures as products of star formation and dynamical evolution. As of the past year, I have expanded my interest in understanding binary star demographics and their impact on planet formation.
+My research lies at the intersection of exoplanet demographics, binary star dynamics, and galactic archaeology. I study exoplanetary systems and their architectures, investigating how planetary demographics vary within the Galactic context. This work builds on my Ph.D. research, where I focused on the structural and evolutionary relationships of planetary systems.
+
+I am also deeply engaged in studying the dynamics of binary and multi-stellar systems, exploring how their configurations affect both star and planet formation. As a member of Gaia DPAC’s CU6 team, I contribute to the analysis of radial velocities, which is essential for understanding binary star kinematics and the detection of hidden stellar companions.
+
+My work also incorporates galactic archaeology, where I analyse halo stars to uncover the evolutionary history of the Milky Way.
+
+Further expanding my research, I search for dormant compact objects such as neutron stars and black holes within binary systems, as these elusive objects reveal critical insights into stellar evolution and end states. 
 
 You can check out the complete list of my publications in this [link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
