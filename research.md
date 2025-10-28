@@ -21,7 +21,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 ## Featured figures
 
 <div class="fig-grid">
-  <figure class="scale-80">
+  <figure class="scale-100">
     <img src="/assets/img/MR_NP_OG.jpg" alt="Mass–radius relation with outer-giant vs no-giant systems">
     <figcaption><b>Fig. 1:</b> Mass–radius relation for inner Neptunes (P &lt; 50 d): systems with outer giants (OG) show systematically larger radii at fixed mass than those without detected giants (NG).</figcaption>
   </figure>
@@ -36,11 +36,11 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
     <figcaption><b>Fig. 3:</b> Circularisation/cutoff behaviour vs effective temperature (Teff), indicating a strong Teff dependence consistent with pre-MS circularisation.</figcaption>
   </figure>
 
-  <figure class="scale-90">
+  <figure class="scale-100">
     <img src="/assets/img/HARPSgalactic.jpeg" alt="HARPS Galactic planet occurrence map">
     <figcaption>   
       <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank"><b>Fig. 4:</b></a>
-      Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data. **Read more:** [A&A 643, A106 (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract)</figcaption>
+      Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
   </figure>
 
 <figure class="scale-110">
@@ -58,34 +58,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
   </figure>
 </div>
 
-## Planet Occurrence Rates in the Galactic Context
-
-![HARPS Galactic](/assets/img/HARPSgalactic.jpeg)
-
-We estimate close-in small-planet occurrence across Galactic populations by combining RV and transit surveys with star-by-star injection–recovery and a simplified Bayesian framework. Metal-poor and higher-mass stars host fewer low-mass close-in planets, while thin- and thick-disk rates are comparable in the Solar neighborhood.  
-**Read more:** [A&A 643, A106 (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract)
-
----
-
-## Similarity of Planetary System Architectures
-
-![PASSta](/assets/img/PASSta.jpeg)
-
-We introduce the **Weighted Energy Distance (WED)** to compare full system architectures (period–radius space) and define the **Inter-Catalog Energy Distance (ICED)** to compare *sets* of systems. These tools complement descriptive summaries and enable catalog-to-catalog comparisons.  
-
-
----
-
-## The Planetary Mass–Radius Relation
-
-![MR](/assets/img/MR.jpeg)
-
-We identify two regimes in the planetary M–R relation and link the breakpoint to hydrogen electron degeneracy—i.e., the minimal mass of H/He-dominated planets. Observations and population-synthesis models agree qualitatively on this transition.  
-**Read more:** [A&A 604, A83 (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...604A..83B/abstract)
-
----
 
 ### Full publications
 
-Browse all papers on ADS:  
-[ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc](https://ui.adsabs.harvard.edu/search/q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+Browse all papers on ADS:   <a href="ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>
