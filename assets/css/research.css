@@ -52,3 +52,55 @@
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+/* === Research page layout tweaks (scoped by page since only this page loads this file) === */
+
+/* Make the content area wider on this page only */
+.container, .container-sm, .container-md, .container-lg, .container-xl {
+  max-width: 1280px;     /* wider than theme default */
+  padding-left: 1.25rem; /* keep some breathing room */
+  padding-right: 1.25rem;
+}
+
+/* Justify body text on this page */
+.page-content p, .blog-post p, .post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Figure grid: 3 per row on laptops, 2 on tablets, 1 on phones */
+.fig-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+@media (min-width: 1200px) { .fig-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 700px) and (max-width: 1199.98px) { .fig-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 699.98px) { .fig-grid { grid-template-columns: 1fr; } }
+
+.fig-grid figure { margin: 0; }
+.fig-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+.fig-grid figcaption {
+  text-align: center;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  color: #555;
+  margin-top: 0.4rem;
+}
+
+/* === Manual per-image size nudges ===
+   Use these on <figure> or <img> to visually equalize different plot crops. */
+.scale-90 { width: 90%; margin-left: auto; margin-right: auto; }
+.scale-95 { width: 95%; margin-left: auto; margin-right: auto; }
+.scale-105 { width: 105%; margin-left: auto; margin-right: auto; }
+.scale-110 { width: 110%; margin-left: auto; margin-right: auto; }
+
+/* If you prefer to tweak just the image inside a figure, target the image: */
+figure.scale-90 > img { width: 90%; margin-left: auto; margin-right: auto; }
+figure.scale-95 > img { width: 95%; margin-left: auto; margin-right: auto; }
+figure.scale-105 > img { width: 105%; margin-left: auto; margin-right: auto; }
+figure.scale-110 > img { width: 110%; margin-left: auto; margin-right: auto; }
