@@ -17,25 +17,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 
 ---
 
-## Featured figures
 
-<div class="fig-grid">
-  <figure>
-    <img src="/assets/img/research/MR_NP_OG.jpg" alt="Mass–radius relation with outer-giant vs no-giant systems">
-    <figcaption><b>Fig. 1:</b> Mass–radius relation for inner Neptunes (P &lt; 50 d): systems with outer giants (OG) show systematically larger radii at fixed mass than those without detected giants (NG).</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/research/feh_F_GC.jpg" alt="Metallicity–frequency relation for field and clusters">
-    <figcaption><b>Fig. 2:</b> Metallicity–frequency diagram comparing field dwarfs/giants and clusters, highlighting peaks in the [Fe/H]–[α/Fe] plane.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/research/teff_P0_circ.jpg" alt="Circularization vs effective temperature">
-    <figcaption><b>Fig. 3:</b> Circularization/cutoff behavior vs effective temperature, indicating a strong Teff dependence consistent with pre-MS circularization.</figcaption>
-  </figure>
-</div>
-
-
----
 
 ## Planet Occurrence Rates in the Galactic Context
 
