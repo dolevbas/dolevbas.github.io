@@ -19,22 +19,32 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 
 ## Featured figures
 
-<div class="fig-grid">
+<div class="fig-grid single-row">
   <figure>
     <img src="/assets/img/MR_NP_OG.jpg" alt="Mass–radius relation with outer-giant vs no-giant systems">
     <figcaption><b>Fig. 1:</b> Mass–radius relation for inner Neptunes (P &lt; 50 d): systems with outer giants (OG) show systematically larger radii at fixed mass than those without detected giants (NG).</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/feh_F_GC.jpg" alt="Metallicity–frequency relation for field and clusters">
-    <figcaption><b>Fig. 2:</b> Close binary fraction as a function of metallicity, comparing field dwarfs/giants and Globular Clusters (GCs), highlighting low binary fractions in GCs</figcaption>
+    <figcaption><b>Fig. 2:</b> Close binary fraction as a function of metallicity, comparing field dwarfs/giants and Globular Clusters (GCs).</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/teff_P0_circ.jpg" alt="Circularization vs effective temperature">
     <figcaption><b>Fig. 3:</b> Circularisation/cutoff behaviour vs effective temperature (Teff), indicating a strong Teff dependence consistent with pre-MS circularisation.</figcaption>
   </figure>
+  <figure>
+    <img src="/assets/img/HARPSgalactic.jpeg" alt="HARPS Galactic planet occurrence map">
+    <figcaption><b>Fig. 4:</b> Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
+    <figcaption><b>Fig. 5:</b> Weighted Energy Distance (WED) comparison of full planetary system architectures.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/MR.jpeg" alt="Planetary Mass–Radius relation">
+    <figcaption><b>Fig. 6:</b> The planetary mass–radius relation showing two regimes linked to electron degeneracy.</figcaption>
+  </figure>
 </div>
-
----
 
 ## Planet Occurrence Rates in the Galactic Context
 
