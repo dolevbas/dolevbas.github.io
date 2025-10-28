@@ -8,6 +8,7 @@ css:
 ---
 
 Modern observational astrophysics has become fundamentally data-driven, requiring sophisticated computational approaches to transform massive survey datasets into astrophysical insights. My research exploits large-scale astronomical surveys and multiple spectroscopic surveys to understand how planetary systems form and evolve within their Galactic context. 
+
 ## Research threads
 
 - **Planet occurrence in the Galactic context** — how metallicity, α-abundance, kinematics, and disk/halo membership modulate small-planet rates.  
@@ -25,7 +26,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
     <figcaption><b>Fig. 1:</b> Mass–radius relation for inner Neptunes (P &lt; 50 d): systems with outer giants (OG) show systematically larger radii at fixed mass than those without detected giants (NG).</figcaption>
   </figure>
 
-  <figure class="scale-105">
+  <figure class="scale-120">
     <img src="/assets/img/feh_F_GC.jpg" alt="Metallicity–frequency relation for field and clusters">
     <figcaption><b>Fig. 2:</b> Close binary fraction as a function of metallicity, comparing field dwarfs/giants and Globular Clusters (GCs), highlighting low binary fractions in GCs.</figcaption>
   </figure>
@@ -40,9 +41,9 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
     <figcaption><b>Fig. 4:</b> Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.</figcaption>
   </figure>
 
-  <figure class="scale-95">
+  <figure class="scale-110">
     <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
-    <figcaption><b>Fig. 5:</b> Weighted Energy Distance (WED) comparison of full planetary system architectures.</figcaption>
+    <figcaption><b>Fig. 5:</b> Weighted Energy Distance (WED) comparison of full planetary system architectures. **Read more:** [A&A 651, A61 (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract)</figcaption>
   </figure>
 
   <figure class="scale-100">
@@ -65,7 +66,7 @@ We estimate close-in small-planet occurrence across Galactic populations by comb
 ![PASSta](/assets/img/PASSta.jpeg)
 
 We introduce the **Weighted Energy Distance (WED)** to compare full system architectures (period–radius space) and define the **Inter-Catalog Energy Distance (ICED)** to compare *sets* of systems. These tools complement descriptive summaries and enable catalog-to-catalog comparisons.  
-**Read more:** [A&A 651, A61 (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract)
+
 
 ---
 
