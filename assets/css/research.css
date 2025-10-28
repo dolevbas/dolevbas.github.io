@@ -20,3 +20,35 @@
 }
 @media (max-width:1080px){ .fig-grid{grid-template-columns:repeat(2,1fr);} }
 @media (max-width:700px){  .fig-grid{grid-template-columns:1fr;} }
+
+/* Full-width single-row style for the Research page figures */
+.fig-grid.single-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.fig-grid.single-row img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.fig-grid.single-row figcaption {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #555;
+  margin-top: 0.4rem;
+}
+
+/* Optional: on big screens, let two appear side-by-side */
+@media (min-width: 1200px) {
+  .fig-grid.single-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
