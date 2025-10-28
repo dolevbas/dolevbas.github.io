@@ -7,12 +7,11 @@ css:
   - /assets/css/research.css
 ---
 
-I connect system architecture to population-level trends, embedding both exoplanets and binary-star dynamics in their Galactic context. 
-
-## Research threads (at a glance)
+Modern observational astrophysics has become fundamentally data-driven, requiring sophisticated computational approaches to transform massive survey datasets into astrophysical insights. My research exploits large-scale astronomical surveys and multiple spectroscopic surveys to understand how planetary systems form and evolve within their Galactic context. 
+## Research threads (short list)
 
 - **Planet occurrence in the Galactic context** — how metallicity, α-abundance, kinematics, and disk/halo membership modulate small-planet rates.  
-- **System architectures** — metrics to compare whole planetary systems and catalogs (Weighted Energy Distance).  
+- **System architectures** — metrics to compare whole planetary systems and catalogues (Weighted Energy Distance).  
 - **Binary & multiple stars** — demographics across Galactic populations; hierarchical triples; tidal circularization physics.  
 - **Dormant compact objects** — wide BH binaries (Gaia BH1–3) and their formation channels.
 
@@ -40,7 +39,7 @@ I connect system architecture to population-level trends, embedding both exoplan
 
 ## Planet Occurrence Rates in the Galactic Context
 
-![HARPS Galactic](/assets/img/HARPSgalactic.jpeg){: .mx-auto.d-block :}
+![HARPS Galactic](/assets/img/HARPSgalactic.jpeg)
 
 We estimate close-in small-planet occurrence across Galactic populations by combining RV and transit surveys with star-by-star injection–recovery and a simplified Bayesian framework. Metal-poor and higher-mass stars host fewer low-mass close-in planets, while thin- and thick-disk rates are comparable in the Solar neighborhood.  
 **Read more:** [A&A 643, A106 (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract)
@@ -49,7 +48,7 @@ We estimate close-in small-planet occurrence across Galactic populations by comb
 
 ## Similarity of Planetary System Architectures
 
-![PASSta](/assets/img/PASSta.jpeg){: .mx-auto.d-block :}
+![PASSta](/assets/img/PASSta.jpeg)
 
 We introduce the **Weighted Energy Distance (WED)** to compare full system architectures (period–radius space) and define the **Inter-Catalog Energy Distance (ICED)** to compare *sets* of systems. These tools complement descriptive summaries and enable catalog-to-catalog comparisons.  
 **Read more:** [A&A 651, A61 (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract)
@@ -58,7 +57,7 @@ We introduce the **Weighted Energy Distance (WED)** to compare full system archi
 
 ## The Planetary Mass–Radius Relation
 
-![MR](/assets/img/MR.jpeg){: .mx-auto.d-block :}
+![MR](/assets/img/MR.jpeg)
 
 We identify two regimes in the planetary M–R relation and link the breakpoint to hydrogen electron degeneracy—i.e., the minimal mass of H/He-dominated planets. Observations and population-synthesis models agree qualitatively on this transition.  
 **Read more:** [A&A 604, A83 (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...604A..83B/abstract)
