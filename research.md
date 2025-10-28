@@ -3,6 +3,8 @@ layout: page
 title: Research
 cover-img: /assets/img/exoplanets.jpg
 thumbnail-img: /assets/img/thumb.png
+css:
+  - /assets/css/research.css
 ---
 
 I connect system architecture to population-level trends, embedding both exoplanets and binary-star dynamics in their Galactic context. 
