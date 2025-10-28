@@ -26,11 +26,11 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
   </figure>
   <figure>
     <img src="/assets/img/feh_F_GC.jpg" alt="Metallicity–frequency relation for field and clusters">
-    <figcaption><b>Fig. 2:</b> Metallicity–frequency diagram comparing field dwarfs/giants and clusters, highlighting peaks in the [Fe/H]–[α/Fe] plane.</figcaption>
+    <figcaption><b>Fig. 2:</b> Close binary fraction as a function of metallicity, comparing field dwarfs/giants and Globular Clusters (GCs), highlighting low binary fractions in GCs</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/teff_P0_circ.jpg" alt="Circularization vs effective temperature">
-    <figcaption><b>Fig. 3:</b> Circularization/cutoff behavior vs effective temperature, indicating a strong Teff dependence consistent with pre-MS circularization.</figcaption>
+    <figcaption><b>Fig. 3:</b> Circularisation/cutoff behaviour vs effective temperature (Teff), indicating a strong Teff dependence consistent with pre-MS circularisation.</figcaption>
   </figure>
 </div>
 
