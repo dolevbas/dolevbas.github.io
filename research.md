@@ -47,9 +47,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
   <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
   <figcaption>
      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank"><b>Fig. 5:</b></a>
-     Weighted Energy Distance (WED) comparison of full planetary system architectures.
-    
-  </figcaption>
+     Weighted Energy Distance (WED) comparison of full planetary system architectures.</figcaption>
 </figure>
 
   <figure class="scale-100">
