@@ -21,7 +21,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 ## Featured figures
 
 <div class="fig-grid">
-  <figure class="scale-100">
+  <figure class="scale-80">
     <img src="/assets/img/MR_NP_OG.jpg" alt="Mass–radius relation with outer-giant vs no-giant systems">
     <figcaption><b>Fig. 1:</b> Mass–radius relation for inner Neptunes (P &lt; 50 d): systems with outer giants (OG) show systematically larger radii at fixed mass than those without detected giants (NG).</figcaption>
   </figure>
@@ -36,7 +36,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
     <figcaption><b>Fig. 3:</b> Circularisation/cutoff behaviour vs effective temperature (Teff), indicating a strong Teff dependence consistent with pre-MS circularisation.</figcaption>
   </figure>
 
-  <figure class="scale-100">
+  <figure class="scale-90">
     <img src="/assets/img/HARPSgalactic.jpeg" alt="HARPS Galactic planet occurrence map">
     <figcaption><b>Fig. 4:</b> Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data. **Read more:** [A&A 643, A106 (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract)</figcaption>
   </figure>
@@ -44,8 +44,9 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 <figure class="scale-100">
   <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
   <figcaption>
-    <b>Fig. 5:</b> Weighted Energy Distance (WED) comparison of full planetary system architectures.
-    <b>Read more:</b> <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank">A&amp;A 651, A61 (2021)</a>
+     <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank"><b>Fig. 5:</b></a>
+     Weighted Energy Distance (WED) comparison of full planetary system architectures.
+    
   </figcaption>
 </figure>
 
