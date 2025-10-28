@@ -5,7 +5,7 @@ cover-img: /assets/img/exoplanets.jpg
 thumbnail-img: /assets/img/thumb.png
 ---
 
-I connect system architecture to population-level trends, embedding both exoplanets and binary-star dynamics in their Galactic context. Using Gaia, Kepler, LAMOST, APOGEE and Bayesian/statistical tools, I showed that stellar kinematics and Galactic membership—beyond metallicity—shape planet occurrence. I also build methods (e.g., WED for architectures; mixture models for binaries) and apply them from field stars to clusters and halo populations.
+I connect system architecture to population-level trends, embedding both exoplanets and binary-star dynamics in their Galactic context. 
 
 ## Research threads (at a glance)
 
@@ -20,15 +20,15 @@ I connect system architecture to population-level trends, embedding both exoplan
 
 <div class="fig-grid">
   <figure>
-    <img src="/assets/img/research/MR.jpg" alt="Mass–radius relation with outer-giant vs no-giant systems">
+    <img src="/assets/img/research/MR_NP_OG.jpg" alt="Mass–radius relation with outer-giant vs no-giant systems">
     <figcaption><b>Fig. 1:</b> Mass–radius relation for inner Neptunes (P &lt; 50 d): systems with outer giants (OG) show systematically larger radii at fixed mass than those without detected giants (NG).</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/research/feh_F_zoomed.jpg" alt="Metallicity–frequency relation for field and clusters">
+    <img src="/assets/img/research/feh_F_GC.jpg" alt="Metallicity–frequency relation for field and clusters">
     <figcaption><b>Fig. 2:</b> Metallicity–frequency diagram comparing field dwarfs/giants and clusters, highlighting peaks in the [Fe/H]–[α/Fe] plane.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/research/teff_P0.jpg" alt="Circularization vs effective temperature">
+    <img src="/assets/img/research/teff_P0_circ.jpg" alt="Circularization vs effective temperature">
     <figcaption><b>Fig. 3:</b> Circularization/cutoff behavior vs effective temperature, indicating a strong Teff dependence consistent with pre-MS circularization.</figcaption>
   </figure>
 </div>
