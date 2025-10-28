@@ -38,17 +38,21 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 
   <figure class="scale-100">
     <img src="/assets/img/HARPSgalactic.jpeg" alt="HARPS Galactic planet occurrence map">
-    <figcaption>   
-      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank"><b>Fig. 4:</b></a>
-      Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
+    <figcaption>
+      <b>Fig. 4:</b> Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
+      <span style="font-weight:bold"> Read more:</span>
+      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank">A&amp;A 643, A106 (2020)</a>
+    </figcaption>
   </figure>
 
-<figure class="scale-110">
-  <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
-  <figcaption>
-     <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank"><b>Fig. 5:</b></a>
-     Weighted Energy Distance (WED) comparison of full planetary system architectures.</figcaption>
-</figure>
+  <figure class="scale-110">
+    <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
+    <figcaption>
+      <b>Fig. 5:</b> Weighted Energy Distance (WED) comparison of full planetary system architectures.
+      <span style="font-weight:bold"> Read more:</span>
+      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank">A&amp;A 651, A61 (2021)</a>
+    </figcaption>
+  </figure>
 
   <figure class="scale-100">
     <img src="/assets/img/MR.jpeg" alt="Planetary Mass–Radius relation">
@@ -59,4 +63,4 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 
 ### Full publications
 
-Browse all papers on ADS:   <a href="ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>
+Browse all papers on ADS: <a href="https://ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>
