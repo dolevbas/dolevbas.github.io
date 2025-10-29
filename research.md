@@ -48,19 +48,19 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
   <figure class="scale-110">
     <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
     <figcaption>
-      <b>Fig. 5:</b> Weighted Energy Distance (WED) comparison of full planetary system architectures.
+       Weighted Energy Distance (WED) comparison of full planetary system architectures.
       <span style="font-weight:bold"> Read more:</span>
-      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank">A&amp;A 651, A61 (2021)</a>
+      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank"><b>[V]</b></a>
     </figcaption>
   </figure>
 
   <figure class="scale-100">
     <img src="/assets/img/MR.jpeg" alt="Planetary Mass–Radius relation">
-    <figcaption><b>Fig. 6:</b> The planetary mass–radius relation showing two regimes linked to electron degeneracy.</figcaption>
+    <figcaption> The planetary mass–radius relation showing two regimes linked to electron degeneracy.</figcaption>
   </figure>
 </div>
 
 
 ### Full publications
 
-Browse all papers on ADS: <a href="https://ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>
+Browse all papers on <a href="https://ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>
