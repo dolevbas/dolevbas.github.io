@@ -9,16 +9,15 @@ css:
 
 Modern observational astrophysics has become fundamentally data-driven, requiring sophisticated computational approaches to transform massive survey datasets into astrophysical insights. My research exploits large-scale astronomical surveys and multiple spectroscopic surveys to understand how planetary systems form and evolve within their Galactic context. 
 
-An updated list of all my papers can be found on <a href="https://ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>.
-
 ## Research threads
 
-- **Planet occurrence in the Galactic context** — how metallicity, α-abundance, kinematics, and disk/halo membership modulate small-planet rates.  
-- **System architectures** — metrics to compare whole planetary systems and catalogues (Weighted Energy Distance).  
+- **Planet occurrence in the Galactic context** — how metallicity, α-abundance, kinematics, and disc/halo membership modulate planetary rates. 
+- **System architectures** — metrics to compare whole planetary system architectures and catalogues (`Weighted Energy Distance').  
 - **Binary & multiple stars** — demographics across Galactic populations; hierarchical triples; tidal circularization physics.  
-- **Dormant compact objects** — wide BH binaries (Gaia BH1–3) and their formation channels.
+- **Dormant compact objects** — wide Black-hole (BH) binaries (Gaia BH1,2,3) and their formation channels.
 
----
+An updated list of all my papers can be found on <a href="https://ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>.
+
 
 
 ## Featured figures
