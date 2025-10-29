@@ -7,7 +7,9 @@ css:
   - /assets/css/research.css
 ---
 
-Modern observational astrophysics has become fundamentally data-driven, requiring sophisticated computational approaches to transform massive survey datasets into astrophysical insights. My research exploits large-scale astronomical surveys and multiple spectroscopic surveys to understand how planetary systems form and evolve within their Galactic context. An updated list of all my papers can be found on <a href="https://ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>.
+Modern observational astrophysics has become fundamentally data-driven, requiring sophisticated computational approaches to transform massive survey datasets into astrophysical insights. My research exploits large-scale astronomical surveys and multiple spectroscopic surveys to understand how planetary systems form and evolve within their Galactic context. 
+
+An updated list of all my papers can be found on <a href="https://ui.adsabs.harvard.edu/search?q=author%3A%22Bashi%2C%20Dolev%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><b>ADS</b></a>.
 
 ## Research threads
 
@@ -51,7 +53,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
   <figure class="scale-100">
     <img src="/assets/img/CHT_cosi.png" alt="Compact hierarchical triple system">
     <figcaption>
-      Histogram of cosi (inclination) for astrometric binaries (black) and Compact hierarchical triple (CHT) candidates (blue). CHT systems show strong evidence of mutual orbit alignment.
+      Histogram of cosi (inclination) for astrometric binaries (black) and Compact hierarchical triple (CHT) candidates (blue). CHT systems show strong evidence of mutual orbit alignment
       <span style="font-weight:bold"> </span>
       <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.247B/abstract" target="_blank"><b>[v]</b></a>
     </figcaption>
@@ -60,7 +62,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
   <figure class="scale-100">
     <img src="/assets/img/binary_E_Lz.png" alt="Halo close binary fractions">
     <figcaption>
-      E − Lz diagram of MS stars, with contour background, grey points mark the main location of disc stars, and blue points mark halo stars. Points inside the dashed green box mark a selected sample of in situ sources, while points inside the dashed orange box mark the sample of accreted stars.
+      E − Lz diagram of MS stars, with contour background, grey points mark the main location of disc stars, and blue points mark halo stars. Points inside the dashed green box mark a selected sample of in situ sources, while points inside the dashed orange box mark the sample of accreted stars
       <span style="font-weight:bold"> </span>
       <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.535..949B/abstract" target="_blank"><b>[v]</b></a>
     </figcaption>
@@ -69,7 +71,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
   <figure class="scale-100">
     <img src="/assets/img/PEP.png" alt="PEP">
     <figcaption>
-      Planetary Eccentricity-period (PEP) diagram for the small and giant planets.  While the giant-planet eccentric orbits display a clear upper envelope, the low-mass planetary orbits display a flat eccentricity distribution, with almost no dependence on the orbital period.
+      Planetary Eccentricity-period (PEP) diagram for the small and giant planets.  While the giant-planet eccentric orbits display a clear upper envelope, the low-mass planetary orbits display a flat eccentricity distribution, with almost no dependence on the orbital period
       <span style="font-weight:bold"> </span>
       <a href="https://ui.adsabs.harvard.edu/abs/2024AJ....168..115B/abstract" target="_blank"><b>[v]</b></a>
     </figcaption>
@@ -90,15 +92,16 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
     <figcaption>
        Weighted Energy Distance (WED) comparison of full planetary system architectures
       <span style="font-weight:bold"> </span>
-      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank"><b>[V]</b></a>
+      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank"><b>[v]</b></a>
     </figcaption>
   </figure>
 
   <figure class="scale-100">
     <img src="/assets/img/Kepler_thin_thick.png" alt="Occurrence in the thin and thick disc">
-    <figcaption> Posterior distributions of estimated planet occurrence rates. left: average number of planets per star, right: the fraction of stars with planets in the Galactic context of the thin and thick discs</figcaption>
-           <span style="font-weight:bold"> </span>
+    <figcaption> Posterior distributions of estimated planet occurrence rates. left: average number of planets per star, right: the fraction of stars with planets in the Galactic context of the thin and thick discs
+        <span style="font-weight:bold"> </span>
       <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3449B/abstract" target="_blank"><b>[v]</b></a>
+      </figcaption>
   </figure>
 </div>
 
