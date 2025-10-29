@@ -33,15 +33,45 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
 
   <figure class="scale-95">
     <img src="/assets/img/teff_P0_circ.jpg" alt="Circularization vs effective temperature">
-    <figcaption><b>Fig. 3:</b> Circularisation/cutoff behaviour vs effective temperature (Teff), indicating a strong Teff dependence consistent with pre-MS circularisation.</figcaption>
+    <figcaption><b></b> Circularisation/cutoff behaviour vs effective temperature (Teff), indicating a strong Teff dependence consistent with pre-MS circularisation.</figcaption>
   </figure>
+
+
+  <figure class="scale-100">
+    <img src="/assets/img/CHT_cosi.png" alt="HARPS Galactic planet occurrence map">
+    <figcaption>
+      Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
+      <span style="font-weight:bold"> </span>
+      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank"><b>[v]</b></a>
+    </figcaption>
+  </figure>
+
+  <figure class="scale-100">
+    <img src="/assets/img/binary_E_Lz.png" alt="HARPS Galactic planet occurrence map">
+    <figcaption>
+      Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
+      <span style="font-weight:bold"> </span>
+      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank"><b>[v]</b></a>
+    </figcaption>
+  </figure>
+
+  <figure class="scale-100">
+    <img src="/assets/img/PEP.png" alt="HARPS Galactic planet occurrence map">
+    <figcaption>
+      Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
+      <span style="font-weight:bold"> </span>
+      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank"><b>[v]</b></a>
+    </figcaption>
+  </figure>
+
+
 
   <figure class="scale-100">
     <img src="/assets/img/HARPSgalactic.jpeg" alt="HARPS Galactic planet occurrence map">
     <figcaption>
-      <b>Fig. 4:</b> Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
-      <span style="font-weight:bold"> Read more:</span>
-      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank">A&amp;A 643, A106 (2020)</a>
+      Close-in small-planet occurrence across Galactic populations derived from HARPS + Kepler data.
+      <span style="font-weight:bold"> </span>
+      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.106B/abstract" target="_blank"><b>[v]</b></a>
     </figcaption>
   </figure>
 
@@ -49,7 +79,7 @@ Modern observational astrophysics has become fundamentally data-driven, requirin
     <img src="/assets/img/PASSta.jpeg" alt="Weighted Energy Distance comparison of system architectures">
     <figcaption>
        Weighted Energy Distance (WED) comparison of full planetary system architectures.
-      <span style="font-weight:bold"> Read more:</span>
+      <span style="font-weight:bold"> </span>
       <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...651A..61B/abstract" target="_blank"><b>[V]</b></a>
     </figcaption>
   </figure>
