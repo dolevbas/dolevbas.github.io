@@ -18,7 +18,7 @@ The site was simplified from the previous template-based Jekyll setup into a sma
 ## Design and content changes
 
 - Updated the homepage around a concise About section, CV link, and publications link.
-- Added a prospective-students note for the new Bar-Ilan University group opening in October 2027.
+- Added a prospective-students note for the new Bar-Ilan University group opening in October 2026.
 - Reworked the Research page around exoplanets, binary stars, multiple-star systems, compact objects, and Galactic-context astrophysics.
 - Added selected research-result cards using existing figure assets and ADS links.
 - Replaced template styling with a restrained academic visual style, responsive layout, sticky navigation, subtle hover states, and reduced-motion-aware transitions.
