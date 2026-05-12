@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /space-engineering/
+
+Sitemap: https://dolevbas.github.io/sitemap.xml
